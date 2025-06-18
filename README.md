@@ -4,7 +4,7 @@ Welcome to **SliceHub**, a deliciously animated pizza ordering experience built 
 
 🍕 "Every click brings your pizza to life." <br />
 
-🔗 **Live Demo**: [Click to visit SliceHub](https://your-live-link.netlify.app)
+🔗 **Live Demo**: [Click to visit SliceHub](slice-hub.netlify.app)
 
 ---
 
