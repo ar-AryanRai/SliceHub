@@ -30,14 +30,13 @@ Welcome to **SliceHub**, a deliciously animated pizza ordering experience built 
 ---
 
 ## 🚀 Tech Stack
-____________________________________________________
+
 | Tech           | Usage                           |
 |----------------|---------------------------------|
 | React.js       | Component-based UI              |
 | JSX            | Markup in JS                    |
 | CSS3           | Styling                         |
 | Framer Motion  | Animations and transitions      |
-|________________|_________________________________|
 
 ---
 
